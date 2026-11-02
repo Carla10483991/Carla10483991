@@ -33,5 +33,5 @@
 ![Swagger](https://img.shields.io/badge/Swagger-A3304F?logo=swagger&logoColor=white)
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <img src="koi/koi.gif" width="500" alt="My koi" />
 </p>

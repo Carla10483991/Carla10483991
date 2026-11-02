@@ -54,3 +54,5 @@
 <p align="center">
   <img src="koi/koi.gif" width="500" alt="My koi" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3304F&height=120&section=footer" width="100%" alt="" />

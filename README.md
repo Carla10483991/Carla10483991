@@ -16,7 +16,6 @@
 </div>
 
 ## Tech Stack
-## Tech Stack
 
 ### Programming and Development
 ![C#](https://img.shields.io/badge/C%23-A3304F?logo=csharp&logoColor=white)

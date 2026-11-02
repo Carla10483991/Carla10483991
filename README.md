@@ -33,8 +33,13 @@
 ![Swagger](https://img.shields.io/badge/Swagger-A3304F?logo=swagger&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carla10483991/carla10483991/output/github-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carla10483991/carla10483991/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carla10483991/carla10483991/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/carla10483991/carla10483991/output/github-snake.svg" />
+  </picture>
 </p>
+
 <p align="center">
   <img src="koi/koi.gif" width="500" alt="My koi" />
 </p>

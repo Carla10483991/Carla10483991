@@ -16,21 +16,33 @@
 </div>
 
 ## Tech Stack
+## Tech Stack
 
-### Languages
+### Programming and Development
 ![C#](https://img.shields.io/badge/C%23-A3304F?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A3304F?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-A3304F?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-A3304F?logo=css3&logoColor=white)
 
-### Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-A3304F?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-A3304F?logo=docker&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle_DB-A3304F?logo=oracle&logoColor=white)
+### Frameworks and Technologies
+![.NET](https://img.shields.io/badge/.NET-A3304F?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-A3304F?logo=dotnet&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-A3304F?logo=microsoftazure&logoColor=white)
 
-### API Tools
+### Databases
+![SQL](https://img.shields.io/badge/SQL-A3304F?logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-A3304F?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-A3304F?logo=mongodb&logoColor=white)
+
+### Tools
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-A3304F?logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-A3304F?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A3304F?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-A3304F?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-A3304F?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-A3304F?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-A3304F?logo=swagger&logoColor=white)
+
 
 <p align="center">
   <picture>

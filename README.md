@@ -8,7 +8,7 @@
 
 *Just doing it for the cookies.*
 
-<a href="https://www.linkedin.com/in/carla-d"><img src="https://img.shields.io/badge/LinkedIn-Connect-A3304F?labelColor=5C1F33&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/carla-d-395636282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A3304F?labelColor=5C1F33&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:carlalynn1825@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A3304F?labelColor=5C1F33&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/carla10483991"><img src="https://img.shields.io/badge/GitHub-carla10483991-A3304F?labelColor=5C1F33&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=carla10483991&label=Profile%20Views&color=A3304F&labelColor=5C1F33" alt="Profile views" />
